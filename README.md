@@ -1,2 +1,2 @@
 # ah_plugindev
-Development Env for AH plugin
+This is just a play area for creating AH plugins.  Kind of a mess for now.
